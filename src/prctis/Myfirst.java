@@ -6,7 +6,7 @@ public class Myfirst {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("first cchangesd");
+		System.out.println("first changed");
 	}
 
 }
