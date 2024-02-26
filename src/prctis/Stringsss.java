@@ -11,7 +11,9 @@ public class Stringsss {
 		String str2 = new String("VAmsee");
 		
 		
+		System.out.println(str2);
 		System.out.println(str1);
+
 	}
 
 }
